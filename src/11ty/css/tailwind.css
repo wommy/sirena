@@ -595,6 +595,34 @@ video {
   height: auto;
 }
 
+main {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3 {
+  font-size: 3rem
+}
+
+h4 {
+  margin-top: 2.5rem;
+  font-size: 1.25rem;
+  font-weight: 700
+}
+
+main p {
+  margin-top: 2.5rem;
+}
+
+a {
+  text-decoration: underline;
+}
+
+footer {
+  text-align: right;
+}
+
 .container {
   width: 100%;
 }

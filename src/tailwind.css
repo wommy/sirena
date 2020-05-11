@@ -1,3 +1,25 @@
 @import "tailwindcss/base";
+main {
+	@apply w-1/2;
+       	@apply mx-auto;
+}
+h3 {
+	@apply text-5xl
+}
+h4 {
+	@apply mt-10 text-xl font-bold
+}
+main p {
+	@apply mt-10;
+}
+a {
+	@apply underline;
+}
+footer {
+	@apply text-right;
+}
+ul {
+	@apply
+}
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
