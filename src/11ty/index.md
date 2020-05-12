@@ -5,7 +5,7 @@ layout: _base
 ### this site features 21+ content
 [I am 21+](/lair)
 
-**This website provides access to materials related to adults engaging in BDSM activities of consensual nature. Access to this site and any of its content is available only to those who accept the terms of the following agreement:**
+#### This website provides access to materials related to adults engaging in BDSM activities of consensual nature. Access to this site and any of its content is available only to those who accept the terms of the following agreement:
 
 Clicking the above link, I certify all of the following:
 

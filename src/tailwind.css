@@ -1,25 +1,51 @@
 @import "tailwindcss/base";
 main {
-	@apply w-1/2;
-       	@apply mx-auto;
+	@apply w-1/2 mx-auto 
 }
 h3 {
-	@apply text-5xl
+	@apply my-10 text-4xl
 }
 h4 {
-	@apply mt-10 text-xl font-bold
+	@apply mt-20 mb-8 text-xl
+}
+h3, h4{
+	@apply font-bold leading-snug tracking-tight
 }
 main p {
-	@apply mt-10;
+	@apply mt-6 text-justify leading-loose
 }
 a {
-	@apply underline;
+	@apply border-b border-black pb-1
 }
-footer {
-	@apply text-right;
+a:hover {
+	@apply text-gray-600
+}
+blockquote {
+	@apply my-16 px-6 text-xl italic text-center tracking-tight
 }
 ul {
-	@apply
+	@apply ml-8
+}
+ul li {
+	@apply mt-4 list-disc
+}
+label div, div div:first-child {
+	@apply mt-6
+}
+input:not([type=checkbox]), textarea {
+	@apply bg-purple-100 border border-gray-300 w-full
+}
+textarea {
+	@apply h-24
+}
+input[type=submit] {
+	@apply px-12 py-8 bg-black w-auto text-white
+}
+footer {
+	@apply mt-40 mb-24 mr-8 text-right
+}
+footer p:not(:first-child){
+	@apply mt-4
 }
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";

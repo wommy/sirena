@@ -22,17 +22,55 @@ DTW - TOL - MIA - NYC - PDX
 [mail](mailto:sirenasirenxo@gmail.com)
 [twitter](//twitter.com/sirena_siren_)
 
-form
-	Name*
-		firstname lastname
-	Email *
-	Age *
-	Location *
-	How did you send tribute? *
-What are you Seeking? *
- Online Session
- Submissive Initiation (long term service)
- Real Time Session
-What is your experience with BDSM/Kink? *
-More about you: Occupation? Are you married, single, divorced? What are your hobbies & interests? Be honest about yourself and your goals. *
-Submit
+<form action="">
+	<label>
+		<div>Name *</div>
+		<input id="name" name="name">
+	</label>
+	<label>
+		<div>Email *</div>
+		<input type="email" id="email" name="email">
+	</label>
+	<label>
+		<div>Age *</div>
+		<input type="number" id="age" name="age" min="21">
+	</label>
+	<label>
+		<div>Location *</div>
+		<input id="location" name="location">
+	</label>
+	<label>
+		<div>How did you sent tribute? *</div>
+		<textarea id="tribute" name="tribute"></textarea>
+	</label>
+	<div>
+		<div>What are you seeking? *</div>
+		<div>
+			<label>
+				<input type="checkbox" id="online-session" name="online-session">
+				<span>Online Session</span>
+			</label>
+		</div>
+		<div>
+			<label>
+				<input type="checkbox" id="submissive-initiation" name="submissive-initiation">
+				<span>Submissive Initiation (long term service)</span>
+			</label>
+		</div>
+		<div>
+			<label>
+				<input type="checkbox" id="real-time-session" name="real-time-session">
+				<span>Real-Time Session</span>
+			</label>
+		</div>
+	</div>
+	<label>
+		<div>What is your experience with BDSM/Kink? *</div>
+		<textarea id="experience" name="experience"></textarea>
+	</label>
+	<label>
+		<div>More about you: Occupation? Are you married, single divorced? What are your hobbies & interests? B honest about yourself and your goals. *</div>
+		<textarea id="aboutyou" name="aboutyou"></textarea>
+	</label>
+	<input type="submit" value="Submit">
+</form>

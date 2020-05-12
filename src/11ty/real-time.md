@@ -3,7 +3,7 @@ layout: _base
 ---
 ### My Time, face to Face, is more precious than gold. If you want to earn it, you must prove you are both worthy and useful.
 
-**In 2020 I will be offering a variety of real time interaction opportunities. Now is your chance to prove yourself.**
+#### In 2020 I will be offering a variety of real time interaction opportunities. Now is your chance to prove yourself.
 
 Have you always wanted to serve a seductive, alluring Siren Goddess in real time? I offer the invaluable opportunity for only the bravest of men to submit themselves to My whim, face to Face, in a variety of styles. If you have wanted to serve a creative, sensual, manipulatively cruel Domme, booking a real time session will be a highlight in your schedule. 
 
